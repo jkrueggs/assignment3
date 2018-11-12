@@ -73,6 +73,7 @@ main1 {
 main2 {
     display: flex;
     flex: 1;
+    background-color: azure;
 }
 .mainimage {
     flex: 3;
